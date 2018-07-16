@@ -7,3 +7,4 @@ Skill level at start: Familiar with tensorflow, advanced at python.
 Label prediction.
 Strategy: Test tensorflow CNNs on datasets with various hyperparameters.
 
+-> Use mnist dataset (seperate repository)
